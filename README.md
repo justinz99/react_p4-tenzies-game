@@ -1,2 +1,2 @@
-This is the forth and final project in the Scrimba course, Tenzies game, and it is built with React.
+This is the forth project in the Scrimba course, Tenzies game, and it is built with React.
 
